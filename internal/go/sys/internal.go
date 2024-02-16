@@ -1,0 +1,3 @@
+package sys
+
+func g() {}
